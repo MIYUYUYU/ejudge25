@@ -1,0 +1,1 @@
+print(2 * max(num:=[int(x) for x in input().split(',')]) < sum(num))
